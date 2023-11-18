@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.error{
+  color: red;
+  font-size: 12px;
+}
+
+.form-control{
+  margin-bottom: 20px;
+}
